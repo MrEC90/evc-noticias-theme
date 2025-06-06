@@ -1,0 +1,7 @@
+[et_pb_section fb_built="1" admin_label="section" _builder_version="4.16" global_colors_info="{}"][et_pb_row admin_label="row" _builder_version="4.16" background_size="initial" background_position="top_left" background_repeat="repeat" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.16" custom_padding="|||" global_colors_info="{}" custom_padding__hover="|||"][et_pb_text admin_label="Text" _builder_version="4.16" background_size="initial" background_position="top_left" background_repeat="repeat" hover_enabled="0" global_colors_info="{}" sticky_enabled="0"]<!-- wp:shortcode -->
+[tsp_manual_stream_trigger]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[teradek_stream_player]
+<!-- /wp:shortcode -->[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.27.4" _module_preset="default"][et_pb_column _builder_version="4.27.4" _module_preset="default" type="4_4"][et_pb_divider _builder_version="4.27.4" _module_preset="default" color="#000000" divider_weight="2px" hover_enabled="0" sticky_enabled="0"][/et_pb_divider][et_pb_code _builder_version="4.27.4" _module_preset="default" hover_enabled="0" sticky_enabled="0"][teradek_stream_archive][/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section]

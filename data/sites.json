@@ -3,161 +3,72 @@
     "noticiascostacentral.com": {
       "label": "Central Coast",
       "url": "https://noticiascostacentral.com",
-      "logo": "https://noticiassantabarbara.com/wp-content/uploads/2024/10/logo-costa.webp"
+      "logo": "https://noticiassantabarbara.com/wp-content/uploads/2024/10/logo-costa.webp",
+      "lat": 35.2828,
+      "lon": -120.6596
     },
     "noticiaselcentro.com": {
       "label": "El Centro",
       "url": "https://noticiaselcentro.com",
-      "logo": "https://noticiaselcentro.com/wp-content/uploads/2025/04/logo-elcentro.webp"
+      "logo": "https://noticiaselcentro.com/wp-content/uploads/2025/04/logo-elcentro.webp",
+      "lat": 32.80991457,
+      "lon": -115.5693062
     },
     "noticiasentravisionla.com": {
       "label": "Los Angeles",
       "url": "https://noticiasentravisionla.com",
-      "logo": "https://noticiasentravisionla.com/wp-content/uploads/2024/11/logo-los-angeles.webp"
+      "logo": "https://noticiasentravisionla.com/wp-content/uploads/2024/11/logo-los-angeles.webp",
+      "lat": 34.0522,
+      "lon": -118.2437
     },
     "noticiasmonterey.com": {
       "label": "Monterey",
       "url": "https://noticiasmonterey.com",
-      "logo": "https://noticiasmonterey.com/wp-content/uploads/2025/04/logo-salinas.webp"
+      "logo": "https://noticiasmonterey.com/wp-content/uploads/2025/04/logo-salinas.webp",
+      "lat": 36.58854858,
+      "lon": -121.8405103
     },
     "noticiaspalmsprings.com": {
       "label": "Palm Springs",
       "url": "https://noticiaspalmsprings.com",
-      "logo": "https://noticiaspalmsprings.s3.amazonaws.com/wp-content/uploads/2025/04/11142010/logo-palmsprings-1.webp"
+      "logo": "https://noticiaspalmsprings.s3.amazonaws.com/wp-content/uploads/2025/04/11142010/logo-palmsprings-1.webp",
+      "lat": 33.73403601,
+      "lon": -116.3931832
     },
     "noticiassacramento.com": {
       "label": "Sacramento",
       "url": "https://noticiassacramento.com",
-      "logo": "https://noticiassacramento.com/wp-content/uploads/2024/11/logo-sacramento.webp"
+      "logo": "https://noticiassacramento.com/wp-content/uploads/2024/11/logo-sacramento.webp",
+      "lat": 38.59877865,
+      "lon": -121.4262826
     },
     "noticiassandiego.com": {
       "label": "San Diego",
       "url": "https://noticiassandiego.com",
-      "logo": "https://noticiassd.s3.amazonaws.com/wp-content/uploads/2025/04/10075507/logo-San-Diego-1.webp"
+      "logo": "https://noticiassd.s3.amazonaws.com/wp-content/uploads/2025/04/10075507/logo-San-Diego-1.webp",
+      "lat": 32.7517,
+      "lon": -117.161111
     },
     "noticiassantabarbara.com": {
       "label": "Santa Barbara",
       "url": "https://noticiassantabarbara.com",
-      "logo": "https://noticiassantabarbara.com/wp-content/uploads/2024/10/logo-costa.webp"
+      "logo": "https://noticiassantabarbara.com/wp-content/uploads/2024/10/logo-costa.webp",
+      "lat": 34.43998894,
+      "lon": -119.7615356
     },
     "noticiasspringfield.com": {
       "label": "Springfield",
       "url": "https://noticiasspringfield.com",
-      "logo": "https://noticiasspringfield.com/wp-content/uploads/2025/06/NoticiasSpringfield.webp"
+      "logo": "https://noticiasspringfield.com/wp-content/uploads/2025/06/NoticiasSpringfield.webp",
+      "lat": 42.10208054,
+      "lon": -72.5893752
     },
     "noticiasstocktonmodesto.com": {
-      "label": "Stockton\u2013Modesto",
+      "label": "Stockton–Modesto",
       "url": "https://noticiasstocktonmodesto.com",
-      "logo": "https://noticiasstocktonmodesto.com/wp-content/uploads/2024/11/logo-modesto-2.webp"
-    }
-  },
-  "Texas": {
-    "noticiascorpuschristi.com": {
-      "label": "Corpus Christi",
-      "url": "https://noticiascorpuschristi.com",
-      "logo": "https://noticiascorpuschristi.com/wp-content/uploads/2024/10/logo-corpus.webp"
-    },
-    "noticiaselpaso.com": {
-      "label": "El Paso",
-      "url": "https://noticiaselpaso.com",
-      "logo": "https://noticiaselpaso.s3.amazonaws.com/wp-content/uploads/2024/10/logo-elpaso.webp"
-    },
-    "noticiaslaredo.com": {
-      "label": "Laredo",
-      "url": "https://noticiaslaredo.com",
-      "logo": "https://noticiaslaredo.s3.amazonaws.com/wp-content/uploads/2025/04/10150553/logo-laredo.webp"
-    },
-    "noticiaslubbock.com": {
-      "label": "Lubbock",
-      "url": "https://noticiaslubbock.com",
-      "logo": "https://noticiaslubbock.com/wp-content/uploads/2025/06/NoticiasLubbock.webp"
-    },
-    "noticiasmidland.com": {
-      "label": "Midland",
-      "url": "https://noticiasmidland.com",
-      "logo": "https://noticiasmidland.s3.amazonaws.com/wp-content/uploads/2025/04/11134652/logo-midland.webp"
-    },
-    "noticias48knvo.com": {
-      "label": "KNVO 48 (McAllen)",
-      "url": "https://noticias48knvo.com",
-      "logo": "https://knvotv48.s3.amazonaws.com/2025/06/Univision-McAllen-ValleRioGde-Horizontal-WHITE-h691-scaled.webp"
-    },
-    "noticiassanangelo.com": {
-      "label": "San Angelo",
-      "url": "https://noticiassanangelo.com",
-      "logo": "https://noticiassanangelo.com/wp-content/uploads/2024/11/logo-san-angelo.webp"
-    }
-  },
-  "Colorado": {
-    "coloradonoticias.com": {
-      "label": "Colorado Noticias",
-      "url": "https://coloradonoticias.com",
-      "logo": "https://coloradonoticias.com/wp-content/uploads/2024/10/logo-colorado-orig.webp"
-    },
-    "noticiasaspen.com": {
-      "label": "Aspen",
-      "url": "https://noticiasaspen.com",
-      "logo": "https://noticiasaspen.s3.amazonaws.com/wp-content/uploads/2024/11/12075913/logo-aspen.webp"
-    },
-    "noticiascoloradosprings.com": {
-      "label": "Colorado Springs",
-      "url": "https://noticiascoloradosprings.com",
-      "logo": "https://noticiascoloradosprings.com/wp-content/uploads/2024/11/logo-colorado.webp"
-    },
-    "noticiaskansas.com": {
-      "label": "Kansas (CO)",
-      "url": "https://noticiaskansas.com",
-      "logo": "https://noticiaskansas.s3.amazonaws.com/wp-content/uploads/2025/04/10085731/logo-kansas.webp"
-    }
-  },
-  "Nevada": {
-    "noticiaslasvegas.com": {
-      "label": "Las Vegas",
-      "url": "https://noticiaslasvegas.com",
-      "logo": "https://noticiaslasvegas.s3.amazonaws.com/wp-content/uploads/2025/04/10072202/logo-nevada.webp"
-    },
-    "noticiasreno.com": {
-      "label": "Reno",
-      "url": "https://noticiasreno.com",
-      "logo": "https://noticiasreno.s3.amazonaws.com/wp-content/uploads/2025/04/10122007/logo-reno.webp"
-    }
-  },
-  "New Mexico": {
-    "noticiasnewmexico.com": {
-      "label": "New Mexico",
-      "url": "https://noticiasnewmexico.com",
-      "logo": "https://noticiasnewmexico.s3.amazonaws.com/wp-content/uploads/2024/10/25221333/logo-nm.webp"
-    }
-  },
-  "Florida": {
-    "noticiastampabay.com": {
-      "label": "Tampa Bay",
-      "url": "https://noticiastampabay.com",
-      "logo": "https://noticiastampabay.com/wp-content/uploads/2025/05/logo-Tampa-Bay.webp"
-    },
-    "orlandonoticias.com": {
-      "label": "Orlando",
-      "url": "https://orlandonoticias.com",
-      "logo": "https://orlandonoticias.com/wp-content/uploads/2025/04/LOGO-ORLANDO.png"
-    }
-  },
-  "Massachusetts": {
-    "noticiasboston.com": {
-      "label": "Boston",
-      "url": "https://noticiasboston.com",
-      "logo": "https://noticiasboston.com/wp-content/uploads/2025/06/NoticiasBoston.webp"
-    },
-    "noticiasnuevainglaterra.com": {
-      "label": "New England",
-      "url": "https://noticiasnuevainglaterra.com",
-      "logo": "https://noticiasnuevainglaterra.com/wp-content/uploads/2024/11/logo-nipng.webp"
-    }
-  },
-  "Connecticut": {
-    "noticiashartford.com": {
-      "label": "Hartford",
-      "url": "https://noticiashartford.com",
-      "logo": "https://noticiashartford.com/wp-content/uploads/2025/04/logo-hartford.webp"
+      "logo": "https://noticiasstocktonmodesto.com/wp-content/uploads/2024/11/logo-modesto-2.webp",
+      "lat": 37.95727208,
+      "lon": -121.2905883
     }
   }
 }

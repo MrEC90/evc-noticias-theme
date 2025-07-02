@@ -201,6 +201,13 @@
       "lat": 42.3601,
       "lon": -71.0589
     },
+    "coloradonoticias.dreamhosters.com": {
+      "label": "Dreamhost",
+      "url": "https://coloradonoticias.dreamhosters.com",
+      "logo": "https://noticiasboston.com/wp-content/uploads/2025/06/NoticiasBoston.webp",
+      "lat": 42.3601,
+      "lon": -71.0589
+    },
     "noticiasnuevainglaterra.com": {
       "label": "New England",
       "url": "https://noticiasnuevainglaterra.com",
@@ -216,15 +223,6 @@
       "logo": "https://noticiashartford.com/wp-content/uploads/2025/04/logo-hartford.webp",
       "lat": 41.76648721,
       "lon": -72.67064382
-    }
-  },
-  "Developer City": {
-    "coloradonoticias.dreamhosters.com": {
-      "label": "Hartford",
-      "url": "https://coloradonoticias.dreamhosters.com",
-      "logo": "https://noticiashartford.com/wp-content/uploads/2025/04/logo-hartford.webp",
-      "lat": 41.7658,
-      "lon": -72.6734
     }
   }
 }

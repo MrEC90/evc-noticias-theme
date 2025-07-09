@@ -19,14 +19,14 @@
       "url": "https://noticiasentravisionla.com",
       "logo": "https://noticiasentravisionla.com/wp-content/uploads/2024/11/logo-los-angeles.webp",
       "lat": 34.0522,
-      "lon": -118.2437
+      "lon": -118.2433
     },
     "noticiasmonterey.com": {
       "label": "Monterey",
       "url": "https://noticiasmonterey.com",
       "logo": "https://noticiasmonterey.com/wp-content/uploads/2025/04/logo-salinas.webp",
-      "lat": 36.58854858,
-      "lon": -121.8405103
+      "lat": 36.5983,
+      "lon": -121.8964
     },
     "noticiaspalmsprings.com": {
       "label": "Palm Springs",
@@ -39,22 +39,22 @@
       "label": "Sacramento",
       "url": "https://noticiassacramento.com",
       "logo": "https://noticiassacramento.com/wp-content/uploads/2024/11/logo-sacramento.webp",
-      "lat": 38.59877865,
-      "lon": -121.4262826
+      "lat": 38.5769,
+      "lon": -121.495
     },
     "noticiassd.com": {
       "label": "San Diego",
       "url": "https://noticiassd.com",
       "logo": "https://noticiassd.s3.amazonaws.com/wp-content/uploads/2025/04/10075507/logo-San-Diego-1.webp",
-      "lat": 32.71576,
-      "lon": -117.1638173
+      "lat": 32.7158,
+      "lon": -117.1638
     },
     "noticiassantabarbara.com": {
       "label": "Santa Barbara",
       "url": "https://noticiassantabarbara.com",
       "logo": "https://noticiassantabarbara.com/wp-content/uploads/2024/10/logo-costa.webp",
-      "lat": 34.43998894,
-      "lon": -119.7615356
+      "lat": 34.4209,
+      "lon": -119.6983
     },
     "noticiasspringfield.com": {
       "label": "Springfield",
@@ -76,15 +76,15 @@
       "label": "Corpus Christi",
       "url": "https://noticiascorpuschristi.com",
       "logo": "https://noticiascorpuschristi.com/wp-content/uploads/2024/10/logo-corpus.webp",
-      "lat": 27.792233,
-      "lon": -97.396037
+      "lat": 27.7964,
+      "lon": -97.4041
     },
     "noticiaselpaso.com": {
       "label": "El Paso",
       "url": "https://noticiaselpaso.com",
       "logo": "https://noticiaselpaso.s3.amazonaws.com/wp-content/uploads/2024/10/logo-elpaso.webp",
-      "lat": 31.82004267,
-      "lon": -106.5166746
+      "lat": 31.7601,
+      "lon": -106.4923
     },
     "noticiaslaredo.com": {
       "label": "Laredo",
@@ -104,8 +104,8 @@
       "label": "Midland",
       "url": "https://noticiasmidland.com",
       "logo": "https://noticiasmidland.s3.amazonaws.com/wp-content/uploads/2025/04/11134652/logo-midland.webp",
-      "lat": 31.92503856,
-      "lon": -102.2180148
+      "lat": 31.9974,
+      "lon": -102.078
     },
     "noticias48knvo.com": {
       "label": "KNVO 48 (McAllen)",
@@ -141,8 +141,8 @@
       "label": "Colorado Springs",
       "url": "https://noticiascoloradosprings.com",
       "logo": "https://noticiascoloradosprings.com/wp-content/uploads/2024/11/logo-colorado.webp",
-      "lat": 39.746887,
-      "lon": -105.023926
+      "lat": 38.8352,
+      "lon": -104.8198
     },
     "noticiaskansas.com": {
       "label": "Kansas (CO)",
@@ -157,15 +157,15 @@
       "label": "Las Vegas",
       "url": "https://noticiaslasvegas.com",
       "logo": "https://noticiaslasvegas.s3.amazonaws.com/wp-content/uploads/2025/04/10072202/logo-nevada.webp",
-      "lat": 36.07081202,
-      "lon": -115.1604402
+      "lat": 36.1691,
+      "lon": -115.1406
     },
     "noticiasreno.com": {
       "label": "Reno",
       "url": "https://noticiasreno.com",
       "logo": "https://noticiasreno.s3.amazonaws.com/wp-content/uploads/2025/04/10122007/logo-reno.webp",
-      "lat": 39.52353954,
-      "lon": -119.8025391
+      "lat": 39.5269,
+      "lon": -119.8133
     }
   },
   "New Mexico": {
@@ -173,8 +173,8 @@
       "label": "New Mexico",
       "url": "https://noticiasnewmexico.com",
       "logo": "https://noticiasnewmexico.s3.amazonaws.com/wp-content/uploads/2024/10/25221333/logo-nm.webp",
-      "lat": 35.14289062,
-      "lon": -106.5982997
+      "lat": 34.4213,
+      "lon": -106.1084
     }
   },
   "Florida": {
@@ -182,15 +182,15 @@
       "label": "Tampa Bay",
       "url": "https://noticiastampabay.com",
       "logo": "https://noticiastampabay.com/wp-content/uploads/2025/05/logo-Tampa-Bay.webp",
-      "lat": 27.71969531,
-      "lon": -82.57898424
+      "lat": 27.9474,
+      "lon": -82.4588
     },
     "orlandonoticias.com": {
       "label": "Orlando",
       "url": "https://orlandonoticias.com",
       "logo": "https://orlandonoticias.com/wp-content/uploads/2025/04/LOGO-ORLANDO.png",
-      "lat": 28.66996603,
-      "lon": -81.38935527
+      "lat": 28.5383,
+      "lon": -81.3789
     }
   },
   "Massachusetts": {

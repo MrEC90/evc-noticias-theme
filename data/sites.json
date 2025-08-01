@@ -157,8 +157,8 @@
       "label": "Las Vegas",
       "url": "https://noticiaslasvegas.com",
       "logo": "https://noticiaslasvegas.s3.amazonaws.com/wp-content/uploads/2025/04/10072202/logo-nevada.webp",
-      "lat": 36.1691,
-      "lon": -115.1406
+      "lat": 36.19218,
+      "lon": -115.18807
     },
     "noticiasreno.com": {
       "label": "Reno",
@@ -223,8 +223,8 @@
       "label": "Dreamhost",
       "url": "https://coloradonoticias.dreamhosters.com",
       "logo": "https://noticiasboston.com/wp-content/uploads/2025/06/NoticiasBoston.webp",
-      "lat": 36.17169,
-      "lon": -115.14637
+      "lat": 36.19218,
+      "lon": -115.18807
     }
   }
 }

@@ -225,6 +225,13 @@
       "logo": "https://noticiasboston.com/wp-content/uploads/2025/06/NoticiasBoston.webp",
       "lat": 36.19218,
       "lon": -115.18807
+    },
+      "new.noticiaspalmsprings.com": {
+      "label": "New Coachella Valley",
+      "url": "https://new.noticiaspalmsprings.com/",
+      "logo": "https://new.noticiaspalmsprings.com/wp-content/uploads/2025/08/Noticias_CoachellaValley_logo_Off-White-scaled.png",
+      "lat": 32.77051,
+      "lon": -117.15407
     }
   }
 }
